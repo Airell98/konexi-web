@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./src",
+        "paths": {
+          "@konexi/icons": ["libs/icons/index.ts"],
+          "@konexi/theme": ["libs/configs/theme/index.ts"],
+          "@konexi/components": ["libs/components/index.ts"]
+        }
+    }
+  }
